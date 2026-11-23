@@ -1,7 +1,0 @@
-<resources>
-    <style name="WeatherTheme" parent="WeatherBaseTheme">
-        <item name="android:enforceStatusBarContrast">false</item>
-        <item name="android:enforceNavigationBarContrast">false</item>
-        <item name="android:navigationBarDividerColor">@android:color/black</item>
-    </style>
-</resources>
